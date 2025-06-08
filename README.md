@@ -21,32 +21,23 @@ This clone replicates the modern look and feel of Netflix’s homepage with clea
 
 ---
 
+## ✌️ Live Demo
+
+- NETFLIX :{http://127.0.0.1:3000/index.html}
+
+---
+
 ## 📸 Preview
 
 ![Netflix Clone Preview](https://github.com/aman00077777/Netflix-Clone.git)
 
 ---
 
-## 🚀 Getting Started
+## 🖊️ LinkedIn
+- Profile {https://www.linkedin.com/in/aman-sharma-13382a328}
+- Email : aman20061203@gmail.com
 
-To view this project on your local machine:
+## 🐥Acknowledgements 
+- Inspired by the original NETFLIX homepage. This project is built purely for learning and practicing front-end development.
 
-```bash
-git clone https://github.com/aman00077777/Netflix-Clone.git
-cd your-repo
-open index.html
 
-Netflix-Clone/
-│
-├── index.html
-├── style.css
-└── assets/
-    └── images/
----
-
-### ✅ What to Do:
-- Replace the placeholder GitHub and demo links with your actual ones.
-- If you add a screenshot later, replace the preview image link.
-- Paste this into your `README.md`.
-
-Want a more minimalist or funny version too? Just say the word 😄
