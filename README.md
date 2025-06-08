@@ -23,8 +23,7 @@ This clone replicates the modern look and feel of Netflix’s homepage with clea
 
 ## ✌️ Live Demo
 
-- NETFLIX :{http://127.0.0.1:3000/index.html}
-
+- Open the "index.html" file in chrome{any browser} to see the demo.
 ---
 
 ## 📸 Preview
@@ -34,7 +33,7 @@ This clone replicates the modern look and feel of Netflix’s homepage with clea
 ---
 
 ## 🖊️ LinkedIn
-- Profile {https://www.linkedin.com/in/aman-sharma-13382a328}
+- Profile: https://www.linkedin.com/in/aman-sharma-13382a328
 - Email : aman20061203@gmail.com
 
 ## 🐥Acknowledgements 
