@@ -29,7 +29,7 @@ This clone replicates the modern look and feel of Netflix’s homepage with clea
 
 ## 📸 Preview
 
-![Netflix Clone Preview](https://github.com/aman00077777/Netflix-Clone.git)
+-![Netflix Clone Preview] https://github.com/aman00077777/Netflix-Clone.git
 
 ---
 
