@@ -23,7 +23,7 @@ This clone replicates the modern look and feel of Netflix’s homepage with clea
 
 ## ✌️ Live Demo
 
-- Open the "index.html" file in chrome{any browser} to see the demo.
+- Open. https://resilient-gingersnap-17fc3f.netlify.app/
 ---
 
 ## 📸 Preview
